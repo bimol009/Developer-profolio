@@ -206,4 +206,77 @@ margin-bottom: 130px;
     margin-left: 27px;
 }
 
-  
+
+/* resume styles */
+
+.resume-content{
+  display: flex;
+  gap: 24px;
+}
+
+.resume-section .title{
+  font-weight: 700;
+font-size: 25px;
+color: #474747;
+margin-bottom: 10px;
+
+}
+.resume-section .sub-title{
+  font-weight: 600;
+font-size: 20px;
+color: #757575;
+margin-bottom: 20px;
+
+}
+.resume-section .description{
+  font-weight: 400;
+font-size: 16px;
+color: #757575;
+}
+
+.resume-item{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+
+
+/* resume-btn */
+
+.resume-btn{
+  text-align: center;
+  margin-top: 25px;
+  margin-bottom: 110px;
+}
+
+
+/* contract styles */
+
+.contract-section{
+  display: flex;
+  background: #FFF8F3;
+  padding: 130px 230px 130px 230px;
+}
+
+.contract-section .section-title{
+  text-align: left;
+}
+
+.contract-description{
+  font-weight: 400;
+font-size: 16px;
+color: #474747;
+margin-bottom: 25px;
+}
+
+.contract-section a img{
+  margin-right: 24px;
+}
+
+
+.contract-form input[type="text"],[type="email"],textarea{
+  padding: 18px 30px;
+  width: 100%;
+  margin-bottom: 24px;
+  border: 0;
+}
