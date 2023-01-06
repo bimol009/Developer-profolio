@@ -37,6 +37,8 @@ nav {
     margin-left: 50px;
   }
 
+
+  /* buttonn */
   .primary-btn{
     background-color: #FD6E0A;
    padding: 18px 35px;
@@ -46,6 +48,20 @@ nav {
     font-size: 20px;
     border-radius: 5px;
     border: 0;
+  }
+
+  .primary-btn2{
+    border:1px solid #FD6E0A;
+    padding: 18px 35px;
+    height: 64px;
+    color: #FD6E0A;
+    font-weight: 700;
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: #FFF8F3;
+    
+  
+   
   }
 
   nav ul li a {
